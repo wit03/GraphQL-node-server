@@ -1,0 +1,12 @@
+{
+  "name": "GraphQL-node-server",
+  "version": "1.0.0",
+  "description": "testing apollo server",
+  "main": "index.js",
+  "author": "wit03",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "apollo-server": "^2.19.1"
+  }
+}
